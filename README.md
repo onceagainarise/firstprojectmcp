@@ -99,8 +99,7 @@ What would you like to explore today?
 
 ```
 firstproject/
-├── app.py                    # Full-featured MCP chat example
-├── simple_chat_example.py   # Streamlined chat example
+├── streamlit_app.py                    # Full-featured MCP chat example
 ├── browser_mcp.json         # MCP server configuration
 ├── requirements.txt         # Python dependencies
 ├── pyproject.toml          # Project configuration
